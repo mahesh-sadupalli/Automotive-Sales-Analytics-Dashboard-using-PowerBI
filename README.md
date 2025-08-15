@@ -8,6 +8,7 @@ Business Insights &amp; Strategic Analysis for automative industry
 Analysis of €7.67M in automotive sales reveals strong performance drivers and strategic opportunities. The 911 Carrera leads model performance while Germany dominates regional sales. Website-sourced leads show exceptional conversion rates, indicating digital marketing effectiveness.
 
 ## Performance Overview
+![Upload Interface](images/Dashboard.png)
 
 ### Financial Performance
 - **Total Revenue**: €7,673,000 across 6 months
